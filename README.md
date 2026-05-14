@@ -1,87 +1,17 @@
-# Rhenium 
-It is a Keyboard that is powered by RP2040 microprocessor that uses a USB-C, this keyboard is using akko v3 pro black switches also this has a layout of a slight variation of ANSI-104 
+# Rhenium HUB
+It is Hi-Speed USB HUB with USB2514B_B Chip and 24mhz crystal , With Support of USB C aswell as USB A
 
-
-Demo : https://drive.google.com/file/d/1mEruNO0NkJvDSLDQcf2VO9Js_aKwS2UY/view?usp=sharing
-# Photos
-<img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/250fdf58-ebd3-413c-8a87-c5b559079aee" />
-
-
-
-
-# KMK FIRMWARE 
-*ALWAYS USE THIS
-1. Install CircuitPY
-2. Copy these files: -https://github.com/Enderman8843/Rhenium/tree/f9bf0482101a7b040eca7897d7e98482e09b73b1/firmware/KMK%20FIRMWARE
-
-# QMK FIRMWARE 
-*Bit Glitchy 
-1. Put this UF2 in rpi
-https://github.com/Enderman8843/Rhenium/tree/909fbee6c6720d5a931a36db898d5d94f6ce02c9/firmware/UF2FILES/QMK
-
-
-
-## Why Rhenium?
-Personally I had never used a mechanical keyboard in my life and only relied on cheap membrane keyboard or use my laptop's keyboard , But when I heard about Blueprint I decided to change it all at once and build myself a Mechanical keyboard , And also decided that I need to have everything custom nothing extrenal thus I embeded the microprocessor into the pcb making it better!
-
-Rhenium was named after the inspiration taken from the chromium browser!
 
 ## How To Use ?
-To use this computer appartus I would suggest using your biological input device so called digits i.e. fingers ,Begin by selecting finger of your choice then elevate your finger about 0.3-0.4 cm above the desired key then place it in on that particular key then gently apply 0.30N of magnitude of force this would lead your visual display unit to render the desired character represented by the key , Simple as that
-
-Before that make sure the assemeble the keyboard and connect it via the usb-c , and to flash the firmware use the bootsel btn and build the `.uf2` fie usinf qmk-compile (Note the firmware is untested)
-
-## Case Render
-
-| Top & Side View | Rear view |
-|----------------|-------------------|
-| <img width="1357" height="345" alt="image" src="https://github.com/user-attachments/assets/e26d6600-2256-4995-b828-ffc97c8be734" /> | <img width="888" height="401" alt="image" src="https://github.com/user-attachments/assets/ef015648-5874-485f-812c-8e2704d7d2b0" /> |
-
-| Full Assembly View |
-|-------------------|
-| <img width="858" height="704" alt="image" src="https://github.com/user-attachments/assets/64150c21-3375-40fd-b856-0e14cb18a47b" /> |
-
----
-
+JUST PlUG IT INTO YOUR COMPUTER VIA THE INPUT
 
 
 ## PCB Layout and Render
 
-| PCB  | Schematics /Wiring |
-|-------------|----------------|
-| <img width="1420" height="555" alt="image" src="https://github.com/user-attachments/assets/6aa9dcc3-1474-4de8-a703-1d9242734357" /> | <img width="1175" height="900" alt="image" src="https://github.com/user-attachments/assets/e649c748-73fc-498d-9b36-18d09823a3df" />|
-| 3D view |
-|-------------------|
-|<img width="1171" height="592" alt="image" src="https://github.com/user-attachments/assets/77b6122b-f213-4de6-9a9f-078f95720aaf" />|<img width="1304" height="585" alt="image" src="https://github.com/user-attachments/assets/7376ee5c-4751-4ebb-b49a-381bdcb0a255" />|
+| PCB | Schematics / Wiring |
+|---|---|
+| <img width="575" height="578" alt="PCB" src="https://github.com/user-attachments/assets/fa64b069-2a6e-4073-a6ff-1451212a6e3e" /> | <img width="1152" height="712" alt="Schematics / Wiring" src="https://github.com/user-attachments/assets/84bbbc5a-4d09-4a25-9a1f-c85ea83c0772" /> |
 
 
 
-
-## JLCPCB ORDER 
-<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/50147309-e404-436d-8b59-fd1b0673f82e" />
-
-
-## Shipment Option 
-<img width="1833" height="726" alt="image" src="https://github.com/user-attachments/assets/13bec65b-151d-4a31-bc83-f41675e33308" />
-
-
-
-See I did not find gdsr option so I chose UPS world wide express shipment
-
-
-## BOM
-| Item | Description | Quantity | Unit Price ($) | Total Price ($) | URL |
-|------|------------|----------|----------------|-----------------|-----|
-| PCB (V1 and V2 , PICO) | JLCPCB | 1 | 113.66 | 113.66 | https://jlcpcb.com |
-| Pinecil V2 | Solder Iron | 1 | OWNED | 0.00 | OWNED |
-| Diodes | Diodes | 75 | 0.01 | 1 | Owned |
-| Case | Print Legion Shipment | 1 | 6.00 | 6.00 | https://hackclub.com |
-| Akko Switches | Switch Set (45) | 2 | 14.00 | 28.00 | https://stackskb.com/store/akko-v3-cream-black-pro-switch-pack-of-45/ |
-| Keycaps | MDA Profile Keycaps | 1 | 16.69 | 16.69 | https://stackskb.com/store/stackspbt-lavender-mda-profile-keycaps-131-key/ |
-| OLED Display | 0.91" OLED Display | 1 | 2.23 | 2.23 | https://robu.in/product/blue-oled-display-module/ |
-| Vertical Rotary Encoder | Rotary Encoder | 1 | 2.00 | 2.00 | https://www.amazon.in/dp/B0888RWNM1 |
-| Rotary Cap | Knob Cap | 1 | 0.40 | 0.40 | https://robu.in/product/potentiometer-knob-rotary-switch-cap-black-color-pack-of-5-pcs/ |
-| M2 Screw + Hex + Washer | Misc Hardware | 6 | 0.80 | 0.80 | https://onlyscrews.in/products/m2-nut-ss-304 |
-| Soldering Essentials | Solder+Flux+TipCleaner | 1 | 4.54 | 4.54 | https://robocraze.com/products/7cmx5-5cm-soldering-cleaning-sponge-for-soldering-irons-work-stands?variant=47303371227360 , https://robu.in/product/solder-wire-0-8mm50g/ , https://robu.in/product/noel-flux-soldering-paste-10g/ |
-| **TOTAL** |  |  |  | **175 $** |  |
 
