@@ -14,4 +14,5 @@ JUST PlUG IT INTO YOUR COMPUTER VIA THE INPUT
 
 | 3D View |
 |---|
-| <img width="957" height="712" alt="3D View" src="https://github.com/user-attachments/assets/13c62d2d-2e46-4bf6-a404-284724f970a2" /> |
+| <img width="957" height="712" alt="3D View" src="https://github.com/user-attachments/assets/13c62d2d-2e46-4bf6-a404-284724f970a2" /> <img width="727" height="806" alt="image" src="https://github.com/user-attachments/assets/4d034550-ef72-4539-ada1-0d913ecdcaa8" />
+|
