@@ -10,8 +10,15 @@ JUST PlUG IT INTO YOUR COMPUTER VIA THE INPUT
 
 | PCB | Schematics / Wiring |
 |---|---|
-| <img width="575" height="578" alt="PCB" src="https://github.com/user-attachments/assets/fa64b069-2a6e-4073-a6ff-1451212a6e3e" /> | <img width="1152" height="712" alt="Schematics / Wiring" src="https://github.com/user-attachments/assets/84bbbc5a-4d09-4a25-9a1f-c85ea83c0772" /> |
+| <img width="551" height="622" alt="image" src="https://github.com/user-attachments/assets/712dec4f-a6a3-4902-bcae-78ff57047f8b" />
+ |<img width="1185" height="757" alt="image" src="https://github.com/user-attachments/assets/1e8c9898-d522-44bc-8af1-9de9a799e8f6" />
+|
 
-| 3D View Rear | Front |
+| 3D View Rear | |
 |---|---|
-| <img width="957" height="712" alt="3D View" src="https://github.com/user-attachments/assets/13c62d2d-2e46-4bf6-a404-284724f970a2" /> | <img width="727" height="806" alt="Side View" src="https://github.com/user-attachments/assets/4d034550-ef72-4539-ada1-0d913ecdcaa8" /> |
+<img width="780" height="718" alt="image" src="https://github.com/user-attachments/assets/46ff1b04-ce59-44a7-b3f2-45800369ab9a" />
+
+
+
+| Case | 
+<img width="780" height="556" alt="image" src="https://github.com/user-attachments/assets/2c8a3214-be73-4383-ae9e-9cd665360ed8" />
